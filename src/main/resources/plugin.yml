@@ -1,0 +1,3 @@
+name: TalkFilter
+version: '${project.version}'
+main: net.azisaba.talkfilter.TalkFilter
